@@ -1,0 +1,26 @@
+{
+  "name": "react-jo-templates",
+  "version": "0.0.1",
+  "description": "React templates for Jo",
+  "main": "templates/.joconfig.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [
+    "templates",
+    "nodejs",
+    "cli",
+    "jo"
+  ],
+  "author": "Anton Vinogradov <winogradovaa@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:awinogradov/react-jo-templates.git"
+  },
+  "devDependencies": {
+    "change-case": "4.1.1"
+  },
+  "dependencies": {
+  }
+}
